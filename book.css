@@ -1,0 +1,41 @@
+
+			body{
+				font-family: 'PT Sans', sans-serif}
+
+			.wrapper {
+				max width: 600px;
+			}
+			.grid {
+				grid-gap: 1em;
+				margin: 0 0 2em 0;
+			}
+			.grid div {
+				background-color:
+			}
+			.nice-image {
+				width:100%;
+				height:auto;
+				display:block;
+			}
+			.book{
+				margin-top:2em;
+			}
+			.book h2{
+				font-family: 'PT Sans', sans-serif;
+				font-weight: 700;
+				font-size: 4em;
+				margin-left: 1em
+			}
+			.book-nav {
+				text-align: center;
+			}
+			.book-nav img {
+				width: 100%;
+			}
+			.book-nav a {
+				background-color: transparent;
+			}
+			.credits {
+				margin-left: 1em;
+			}
+		
